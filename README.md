@@ -1,2 +1,4 @@
-# gotipcode
-gotipで動くコードを集めるリポジトリ
+# gotopcode
+
+- gotip用のコードを集める
+- goのバージョンが上がったらgocodeリポジトリに移動する
