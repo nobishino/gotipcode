@@ -3,7 +3,7 @@ package stack_test
 import (
 	"testing"
 
-	"github.com/nobishino/gotipcode/algo/stack"
+	"github.com/nobishino/gotipcode/stack"
 	"github.com/nobishino/gotipcode/assert"
 )
 
