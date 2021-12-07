@@ -6,4 +6,4 @@
 ## test
 
 - `docker pull nobishino/gotip`
-- `docker run -it --volume `pwd`:/src nobishino/gotip /bin/bash -c "gotip test ./..."`
+- `docker run --volume `pwd`:/src nobishino/gotip /bin/bash -c "gotip test ./..."`

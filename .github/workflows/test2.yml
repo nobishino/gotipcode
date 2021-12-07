@@ -9,4 +9,4 @@ jobs:
       - name: pull gotip image
         run: docker pull nobishino/gotip
       - name: test
-        run: docker run -it --volume `pwd`:/src nobishino/gotip /bin/bash -c "gotip test ./..."
+        run: docker run --volume `pwd`:/src nobishino/gotip /bin/bash -c "gotip test ./..."
