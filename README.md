@@ -1,4 +1,5 @@
-# gotopcode
+![Go Test](https://github.com/nobishino/gotipcode/actions/workflows/test.yml/badge.svg)
+# gotipcode
 
 - gotip用のコードを集める
 - goのバージョンが上がったらgocodeリポジトリに移動する
