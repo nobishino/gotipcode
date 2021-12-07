@@ -1,4 +1,4 @@
-name: go-test-2
+name: gotip-test
 on: [push]
 jobs:
   go-test:
