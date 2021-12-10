@@ -18,7 +18,7 @@ func ExamplePriorityQueue() {
 	pq.Enqueue(5)
 	pq.Enqueue(4)
 
-	for i := 1; i <= 5; i++ {
+	for i := 0; i < 5; i++ {
 		v := pq.Dequeue()
 		fmt.Println(v)
 	}
